@@ -6,8 +6,8 @@ authorization methods to secure its customers' data and ensure their privacy.
 ### Labs
 
 This is a completed version for lab 1-3, if you want to see this assignment in each lab, you can view them in each branch.    
-[Spring Security 1 - Basic Authentication](https://github.com/tboonma/kinkao/tree/lab1)
-[Spring Security 2 - OpenID](https://github.com/tboonma/kinkao/tree/lab2)
+[Spring Security 1 - Basic Authentication](https://github.com/tboonma/kinkao/tree/lab1)    
+[Spring Security 2 - OpenID](https://github.com/tboonma/kinkao/tree/lab2)    
 [Spring Security 3 - Env, UUID, DTO](https://github.com/tboonma/kinkao/tree/lab3)
 
 ## Getting Started
