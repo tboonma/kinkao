@@ -21,9 +21,13 @@ GOOGLE_CLIENT_ID=your-client-id
 GOOGLE_CLIENT_SECRET=your-client-secret
 ```
 
-2. Run the application
+3. If you are using IntelliJ prior to 2020.3, you will need to install a Lombok IntelliJ plugin by following these steps.
+   https://projectlombok.org/setup/intellij
+
+
+4. Run the application
 ```shell
 mvn spring-boot:run
 ```
 
-3. Go to http://localhost:8090
+5. Go to http://localhost:8090
