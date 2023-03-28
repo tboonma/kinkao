@@ -3,6 +3,11 @@
 A Software Development Security assignment. Kin Kao is a web-based restaurant application that offers various 
 authorization methods to secure its customers' data and ensure their privacy.
 
+### Labs
+
+This is a completed version for lab 1-3, if you want to see this assignment in each lab, you can view them in each branch.
+[Spring Security 1 - Basic Authentication](/tboonma/kinkao/tree/lab1)
+
 ## Getting Started
 
 ### Requirements
